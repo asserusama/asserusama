@@ -2,7 +2,7 @@
 
 **iOS Software Engineer | Community Leader | Swift Enthusiast**
 
-I am a performance-obsessed iOS Engineer based in Egypt, currently modernizing mobile architectures at **Areeb Technology**. I specialize in migrating legacy codebases to **Swift 6 & SwiftUI**, automating workflows with **Fastlane**, and bridging the gap between design and development.
+I am a performance-obsessed iOS Engineer based in Egypt, currently modernizing mobile architectures at **Areeb Technology**. I specialize in migrating legacy codebases to **Swift 6 & SwiftUI**, bridging the gap between design and development.
 
 As a leader at **SwiftCairo**, I am deeply committed to the iOS community, having upskilled over **3,000 developers** through workshops and technical content on YouTube.
 
