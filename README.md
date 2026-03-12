@@ -49,4 +49,4 @@ As a leader at **SwiftCairo**, I am deeply committed to the iOS community, havin
 ### 📫 Connect with Me
 
 * **Email:** [asser.usamaa@gmail.com](mailto:asser.usamaa@gmail.com)
-* **Education:** Bachelor of Computer Science, New Cairo Academy (Class of 2025)
+* **Education:** Bachelor of Computer Science, New Cairo Academy (Class of 2026)
