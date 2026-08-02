@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# the portrait's source photo — ascii.svg is the artifact, this isn't needed
+AsserPP.jpg
